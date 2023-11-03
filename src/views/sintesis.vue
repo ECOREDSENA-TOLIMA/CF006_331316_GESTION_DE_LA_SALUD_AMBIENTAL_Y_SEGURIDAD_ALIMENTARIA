@@ -3,8 +3,8 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p Los mecanismos de participación social y corresponsabilidad con la seguridad sanitaria orientan sobre aspectos relacionados con la política integral de salud ambiental, la cual tiene como ejes temáticos el agua y el saneamiento básico, aire y salud, sustancias químicas y residuos peligrosos, y cambio climático. Sin embargo, es necesario dar piso conceptual en relación con la normatividad que rige los derechos y deberes de todos los actores involucrados y las diferentes acciones y escenarios que son posibles de trabajar y ofrecer resultados.
+    p.mb-5 En el siguiente gráfico, podrá reconocer una ruta resumida de los aspectos que involucran la temática tratada:
 
     .row.justify-content-center
       .col-lg-10.mb-5
