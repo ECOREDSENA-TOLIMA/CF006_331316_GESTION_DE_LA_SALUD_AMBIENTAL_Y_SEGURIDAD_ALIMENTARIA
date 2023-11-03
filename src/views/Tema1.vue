@@ -373,7 +373,7 @@
             | Adicionalmente a los lineamientos normativos ya nombrados, se debe resaltar la puesta en marcha de la política de participación social para todas las entidades del sistema de salud; la Resolución 2063 de 2017, la cual nace para hacer cumplir los lineamientos de participación social que fueron ordenados por medio de la Ley 1438 de 2011, la Ley Estatutaria de Salud 1751 de 2015 y la Ley Estatutaria de Participación 1757 de 2015. La política de participación social en salud fue construida por medio de talleres y espacios de deliberación con las comunidades y el sector salud. En la Resolución 2063, se exponen los principios de la política de participación social en salud, los cuales se enfocan en derechos, territorialidad, diversidad, solidaridad, autonomía, equidad, transparencia y corresponsabilidad. Además, se describen los ejes y las líneas de acción de la política de participación social en salud. 
         p En la descripción de los ejes y las líneas de acción, se pueden citar los siguientes: 
 
-    AcordionA(tipo="a" clase-tarjeta="tarjeta color-secundario")(data-aos="flip-up").mb-5 
+    AcordionA(tipo="a" clase-tarjeta="tarjeta color-secundario2")(data-aos="flip-up").mb-5 
       .row(titulo="Eje 1: fortalecimiento a nivel institucional.")
         .col-md-6.mb-4.mb-md-0
           h3 Línea de acción. 
