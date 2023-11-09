@@ -184,8 +184,8 @@
           
         h2.text-center Ley 1751 de 2015
         p #[b Objeto:] Regular el derecho fundamental a la salud. 
-        p #[b Artículo 6] enuncia un derecho fundamental, la aceptabilidad: refiere al respeto de los actores del sistema sobre aspectos de la ética médica de las diversas culturas de las personas, minorías étnicas, pueblos y comunidades, de las particularidades socioculturales y cosmovisión de la salud, permitiendo la participación de todos en las decisiones del sistema de salud que le afecten. 
-        p #[b Artículo 12] refiere a la participación de todos en las decisiones del sistema de salud como un derecho fundamental.
+        p #[b Artículo 6:] enuncia un derecho fundamental, la aceptabilidad: refiere al respeto de los actores del sistema sobre aspectos de la ética médica de las diversas culturas de las personas, minorías étnicas, pueblos y comunidades, de las particularidades socioculturales y cosmovisión de la salud, permitiendo la participación de todos en las decisiones del sistema de salud que le afecten. 
+        p #[b Artículo 12:] refiere a la participación de todos en las decisiones del sistema de salud como un derecho fundamental.
 
       .col-md.tarjeta.color-secundario.p-5
         .row.justify-content-center.mb-4
@@ -641,7 +641,7 @@
 
           h3.text-center Participación comunitaria
           p Derecho de las organizaciones comunitarias para ejercer voz y voto alrededor de: planeación, gestión, evaluación y supervisión en salud. Se define la participación comunitaria como el proceso por el que las personas y familias son responsables de su salud y bienestar, junto con sus comunidades, contribuyendo en el desarrollo de todos.
-          p Este proceso debe ser dinámico y permanente, mediante los Comités de Participación Comunitaria en Salud COPACOS. Estos espacios de comunicación y concertación agrupan diversos actores sociales y del Estado.
+          p Este proceso debe ser dinámico y permanente, mediante los Comités de Participación Comunitaria en Salud, COPACOS. Estos espacios de comunicación y concertación agrupan diversos actores sociales y del Estado.
 
       .col-sm-6.col-lg-4.mb-4.mb-sm-0
         .tarjeta--boton.color-primario.p-4(style='height:100%')
@@ -651,7 +651,7 @@
                 img(src='@/assets/curso/temas/tema1/36.svg', alt='Texto que describa la imagen')
 
           h3.text-center Participación en las instituciones del Sistema General de Seguridad Social en Salud
-          p Este tipo de participación es el resultado de la interrelación entre usuario, funcionarios públicos y privados para el seguimiento de la valoración, gestión y acciones de mejoramiento en la prestación del servicio público de salud. Las instituciones que hacen parte del Sistema General de Seguridad Social en Salud deben dar seguridad sobre la participación ciudadana, comunitaria y social en todas las áreas que corresponda, mediante la alianza con la asociación de usuarios y/o con los comités de ética hospitalaria.
+          p Este tipo de participación es el resultado de la interrelación entre usuario, funcionarios públicos y privados para el seguimiento de la valoración, gestión y acciones de mejoramiento en la prestación del servicio público de salud. Las instituciones que hacen parte del Sistema General de Seguridad Social en Salud, deben dar seguridad sobre la participación ciudadana, comunitaria y social en todas las áreas que corresponda, mediante la alianza con la asociación de usuarios y/o con los comités de ética hospitalaria.
 
     p(data-aos="fade-left").mb-5 El Ministerio de Salud y Protección Social determina que, para el ejercicio de la participación social de forma adecuada, deben considerarse varios aspectos y escenarios de participación. 
 

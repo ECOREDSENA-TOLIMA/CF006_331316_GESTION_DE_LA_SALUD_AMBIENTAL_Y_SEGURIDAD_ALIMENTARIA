@@ -199,7 +199,7 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Administración Local',
+      termino: 'Administración local',
       significado:
         'Son entidades autónomas a nivel territorial, que extienden sus competencias a nivel municipal y están más cercanas a la ciudadanía. (Procuraduría General de la Nación, 2011)',
     },
@@ -221,7 +221,7 @@ export default {
     {
       termino: 'COVE',
       significado:
-        'El Comité de Vigilancia Epidemiológica es un espacio de análisis que tiene como objetivo crear herramientas e insumos para la toma de decisiones determinantes, que direccionen hacia acciones trascendentales para controlar situaciones que ponen en riesgo la salud de la población en las diferentes zonas del territorio. (Minsalud, 2019)',
+        'El Comité de Vigilancia Epidemiológica, es un espacio de análisis que tiene como objetivo crear herramientas e insumos para la toma de decisiones determinantes, que direccionen hacia acciones trascendentales para controlar situaciones que ponen en riesgo la salud de la población en las diferentes zonas del territorio. (Minsalud, 2019)',
     },
     {
       termino: 'Democratización',
@@ -292,7 +292,7 @@ export default {
       referencia:
         'Ley 850 de 2003 [Ministerio del Interior y de Justicia]. Por medio de la cual se reglamentan las veedurías ciudadanas. Noviembre 18 de 2003. D.O. No. 45.376. ',
       link:
-        'http://www.oas.org/juridico/spanish/mesicic2_col_ley_850_2003.pdf ',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=10570',
     },
     {
       referencia:
