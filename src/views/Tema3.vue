@@ -88,71 +88,71 @@
     p(data-aos="fade-right").mb-5 Para realizar una revisión más exacta acerca del empoderamiento, es necesario abordar los tipos de empoderamiento en el marco de la participación social en salud. 
 
     TabsB.color-acento-botones
-      .py-4.py-md-5(titulo="Estrategia educativa" :icono="require('@/assets/curso/temas/tema3/7.svg')")
+      .py-4.py-md-5(titulo="Empoderamiento social" :icono="require('@/assets/curso/temas/tema3/7.svg')")
         .row
           .col-md-5
             figure
               img(src='@/assets/curso/temas/tema3/10.png', alt='Texto que describa la imagen')
           .col-md-7.mb-4.mb-md-0
-            p La educación es un medio para lograr la equidad en el marco de la cualificación de las personas, lo que permite sumar conceptos y conocimientos. Por medio de esta estrategia, se debe garantizar: 
+            p Este tipo de empoderamiento permite la construcción del tejido social y también institucional, con inclusión de las personas, la comunidad y las organizaciones. Cuenta con unas estrategias definidas, que son: 
             ul.lista-ul
               li 
                 i.lista-ul__vineta
-                | Cualificar las capacidades de los actores involucrados, tanto servidores públicos como ciudadanos y demás organizaciones. 
+                | El desarrollo personal y cultural. 
               li 
                 i.lista-ul__vineta
-                | Presentar propuesta de pedagogía, que debe contener diversas herramientas y demás elementos pedagógicos pertinentes para con la población que se está formando. 
+                | El fortalecimiento de las organizaciones. 
               li 
                 i.lista-ul__vineta
-                | Diseñar los programas de formación dirigidos a los actores involucrados: trabajadores del sector salud, líderes comunitarios. En este diseño de programas, se debe tener en cuenta la identificación de las diversas experiencias desarrolladas por los ciudadanos y los funcionarios. 
+                | La gestión social participativa. 
               li 
                 i.lista-ul__vineta
-                | Promover las condiciones necesarias para que los actores involucrados puedan desarrollar las competencias y conocimientos necesarios para su proceso de participación.
-          
-      .py-4.py-md-5(titulo="Estrategia comunicativa" :icono="require('@/assets/curso/temas/tema3/8.svg')")
+                | El respeto cultural. 
+                      
+      .py-4.py-md-5(titulo="Empoderamiento político" :icono="require('@/assets/curso/temas/tema3/8.svg')")
         .row
           .col-md-5.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema3/11.png', alt='Texto que describa la imagen')
           .col-md-7
-            p Une actores y componentes del sistema mediante acciones de interacción entre Estado y ciudadanía; posibilita acceso a datos e información para la construcción de mecanismos de producción, circulación y apropiación. Debe accionar:
+            p Permite fomentar, legitimar e institucionalizar todos los espacios de participación, la rendición de cuentas y acciones de concertación, basado en una correcta información y promoviendo la transparencia en la entrega de esta. Mediante la práctica del empoderamiento político, se estimulan los espacios de diálogo en doble vía entre los diversos actores involucrados, fortaleciendo los espacios de formación de la comunidad, creando conciencia en deberes y derechos. Cuenta con unas estrategias definidas, que son: 
+
             ul.lista-ul
               li 
                 i.lista-ul__vineta
-                | Crear procesos democráticos de información, en todo sentido. 
+                | El fortalecimiento del ejercicio de ciudadanía.
               li 
                 i.lista-ul__vineta
-                | Poner en marcha estrategias de divulgación de la política de participación social en salud, y construir planes interinstitucionales. 
+                | La sensibilización e información.
               li 
                 i.lista-ul__vineta
-                | Conocer los medios institucionales y comunitarios y proponer posibles alianzas eficaces en el uso de recursos comunicativos. 
+                | El afianzamiento de la voluntad política.
               li 
                 i.lista-ul__vineta
-                | Estrategias de articulación con procesos institucionales internos, externos y comunitarios. 
+                | El fortalecimiento organizacional e institucional.
               li 
                 i.lista-ul__vineta
-                | Organizar redes de comunicadores comunitarios, facilitadores de la participación social en salud, para avanzar en el derecho a la salud. 
+                | La construcción de una visión y agenda común.
               li 
                 i.lista-ul__vineta
-                | Métodos de comunicación abiertos y en doble vía, que ayuden en la relación Estado–ciudadanía. Disponer de recursos logísticos y económicos, facilitando el amparo de derechos y decisiones en función de la gestión.
+                | La planificación participativa.
+              li 
+                i.lista-ul__vineta
+                | La gestión conjunta.
+              li 
+                i.lista-ul__vineta
+                | La rendición de cuentas, control social, monitoreo y evaluación.
 
-      .py-4.py-md-5(titulo="Estrategia de gestión" :icono="require('@/assets/curso/temas/tema3/9.svg')")
+
+      .py-4.py-md-5(titulo="El empoderamiento económico" :icono="require('@/assets/curso/temas/tema3/9.svg')")
         .row
           .col-md-5.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema3/12.png', alt='Texto que describa la imagen')
           .col-md-7
-            p Organización de todas las condiciones operativas, logísticas y de acuerdos institucionales necesarias para la ejecución de la política de participación social en salud. Debe tener presente:
-            ul.lista-ul
-              li 
-                i.lista-ul__vineta
-                | Organizar los mecanismos y elementos que permitan al Estado cumplir con su función garante del derecho a la participación ciudadana; y favorecer el desarrollo de capacidades para incidir, decidir y exigir el cumplimiento del derecho a la salud. 
-              li 
-                i.lista-ul__vineta
-                | Conocer los medios para unir y coordinar institucionalmente, interna y externamente, las propuestas que articulan diversos elementos de identificación de necesidades e implementación de la política de participación social en salud. 
-              li 
-                i.lista-ul__vineta
-                | Identificar los recursos de tipo financiero, logístico y humano para implementar la política de participación social en salud; incluye elementos para conocer, crear y fortalecer los escenarios, espacios y mecanismos de participación social.
+            p Es el proceso que está enfocado en el desarrollo de capacidades y el incremento de las oportunidades para que las personas desarrollen actividades de producción a nivel rural o urbano, con el fin de mejorar la calidad de vida y, por ende, el acceso a los factores productivos y de servicios, con el objetivo de potencializar la competitividad e inclusión en el mercado, como principio para incrementar el ingreso de dinero y la generación de empleo productivo. 
+            p Las acciones de empoderamiento económico pueden ayudar a ampliar las oportunidades para que las personas puedan ganarse el sustento propio y el de su familia. 
+
           
 
 </template>

@@ -273,7 +273,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h3 Información en salud
-            p Entrega de datos e información que ayuden a orientar personas, familias y comunidades en temas relacionados con salud pública, con actores que hacen parte del sistema general de seguridad social en salud; logrando la construcción de elementos colaborativos en la toma de decisiones en torno a la salud
+            p Entrega de datos e información que ayuden a orientar personas, familias y comunidades en temas relacionados con salud pública, con actores que hacen parte del sistema general de seguridad social en salud; logrando la construcción de elementos colaborativos en la toma de decisiones en torno a la salud.
 
           .col-md-6
             figure
@@ -544,7 +544,7 @@
 
     p(data-aos="fade-left") Esta norma regula dichos mecanismos, así como la iniciativa popular y de ámbito normativo ante las entidades públicas, el referendo, la consulta popular, la revocatoria del mandato, el plebiscito y el cabildo abierto; igualmente, regula las normas de la participación democrática de las organizaciones civiles. A continuación, se describen algunos de los mecanismos que se podrán tener en cuenta y ser usados para promover la participación en asuntos relacionados con la salud de las personas.
 
-    p(data-aos="fade-left").mb-5 En cuanto a los mecanismos democráticos establecidos para la participación ciudadana, se encuentran el plebiscito, el referendo, la consulta popular, el cabildo abierto, la iniciativa legislativa y la revocatoria del mandato, entre otros. En la siguiente tabla, se hace una breve descripción de estos .
+    p(data-aos="fade-left").mb-5 En cuanto a los mecanismos democráticos establecidos para la participación ciudadana, se encuentran el plebiscito, el referendo, la consulta popular, el cabildo abierto, la iniciativa legislativa y la revocatoria del mandato, entre otros. En la siguiente tabla, se hace una breve descripción de estos.
 
     .titulo-sexto.color-acento-contenido
       p.titulo.pb-0.mb-0 #[b Tabla 3.] <em>Mecanismos democráticos para la participación ciudadana</em>
@@ -596,7 +596,7 @@
             td(colspan="2") Es un derecho que tienen los grupos de personas de formular y presentar proyectos en el marco del desarrollo de diversas normas (ley, resolución, ordenanza), para que se puedan debatir y se tenga respuesta de aprobación, modificación o negación por la entidad pública competente.
           tr(style="background-color:#F6F6F6")
             td #[b Audiencias públicas (vigilancia y control)]
-            td(colspan="2") Se hacen con el fin de evaluar la formulación, ejecución o valora ción de diversas políticas y programas a cargo de una entidad; en conclusión, este mecanismo sirve para conocer y discutir los resultados de la operación de los proyectos.
+            td(colspan="2") Se hacen con el fin de evaluar la formulación, ejecución o valoración de diversas políticas y programas a cargo de una entidad; en conclusión, este mecanismo sirve para conocer y discutir los resultados de la operación de los proyectos.
           tr
             td #[b Veedurías ciudadanas (vigilancia y control)]
             td(colspan="2") Estrategia que le permite a los ciudadanos realizar supervisión, en todo el proceso de gestión pública o vigilancia, a una entidad encargada de la prestación de servicios. 
