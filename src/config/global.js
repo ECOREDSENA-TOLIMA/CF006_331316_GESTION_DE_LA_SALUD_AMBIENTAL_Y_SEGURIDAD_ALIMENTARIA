@@ -272,6 +272,11 @@ export default {
   referencias: [
     {
       referencia:
+        'Burbano, A. C. (2018). Teoría y práctica de la sistematización de experiencias (5th ed.). Universidad del Valle.',
+      link: 'https://doi.org/10.2307/j.ctv16zjhw9',
+    },
+    {
+      referencia:
         'Crespo, P., De Rham, P., Gonzáles, G., Iturralde, P., Jaramillo, B., Mancero, L., Moncada, M., Pérez, A. y Soria, C. (2007). Empoderamiento: conceptos y orientaciones. Asocam. ',
       link:
         'https://www.shareweb.ch/site/Poverty-Wellbeing/resources/Archive%20files/Empoderamiento%20-%20Conceptos%20y%20Orientaciones%202007.pdf',
@@ -290,6 +295,11 @@ export default {
     },
     {
       referencia:
+        'FLACSO. (2015). Informe Técnico para el Diseño de Plan de Trabajo para la Reorientación de Programas de Salud Pública. Santiago, Chile: Facultad Latinoamericana de Ciencias Sociales.',
+      link: '',
+    },
+    {
+      referencia:
         'Ley 850 de 2003 [Ministerio del Interior y de Justicia]. Por medio de la cual se reglamentan las veedurías ciudadanas. Noviembre 18 de 2003. D.O. No. 45.376. ',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=10570',
@@ -305,6 +315,18 @@ export default {
         'Ministerio de Ambiente y Desarrollo Sostenible. (2016). Salud Ambiental.',
       link:
         'https://www.minambiente.gov.co/asuntos-ambientales-sectorial-y-urbana/salud-ambiental/#:~:text=Qu%C3%A9%20es%20la%20PISA%3F,el%20marco%20de%20la%20CONASA',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (2017). Resolución 2063 de 2017. Recuperado de ',
+      link:
+        'https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No.%202063%20de%202017.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (2017). Lineamientos de participación social, comunitaria y ciudadana con enfoque diferencial que aporte desde los componentes de la Política Integral de Salud Ambiental – PISA, con intervenciones y/o para los diferentes entornos, de la Ruta de Atención Integral de Promoción y Mantenimiento de la Salud. Recuperado de',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/15documento-salud-ambiental-participacion-social.pdf',
     },
     {
       referencia:
