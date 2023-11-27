@@ -272,7 +272,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Burbano, A. C. (2018). Teoría y práctica de la sistematización de experiencias (5th ed.). Universidad del Valle.',
+        'Carvajal, A. B. (2018). Teoría y práctica de la sistematización de experiencias (5th ed.). Universidad del Valle. ',
       link: 'https://doi.org/10.2307/j.ctv16zjhw9',
     },
     {
